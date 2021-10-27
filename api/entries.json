@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "date": "2021-10-13",
+      "concept": "The DOM",
+      "entry": "We practiced working in the DOM and the use of Bootstrap to style our pages.",
+      "mood": "fine"
+    },
+    {
+      "id": 2,
+      "date": "2021-10-14",
+      "concept": "Martins Aquarium modules",
+      "entry": "Learned how to automate Martin's Website by converting raw data into HTML represenatations and render them in the browser",
+      "mood": "fine"
+    },
+    {
+      "id": 3,
+      "date": "2021-10-15",
+      "concept": "Lab Time",
+      "entry": "Worked on daily journal and Martin's Aquarium",
+      "mood": "pretty good"
+    },
+    {
+      "date": "2021-10-27",
+      "concept": "Daily Journal",
+      "entry": "Learned about modules and aving journal entries through the use of addeventlisteners.",
+      "mood": "Pretty good",
+      "id": 4
+    }
+  ]
+}
